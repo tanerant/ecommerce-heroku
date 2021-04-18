@@ -24,7 +24,7 @@ Data source : https://www.kaggle.com/prachi13/customer-analytics
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-[Example CSV input file](https://raw.githubusercontent.com/dataprofessor/data/master/penguins_example.csv)
+[Example CSV input file](https://raw.githubusercontent.com/tanerant/ecommerce-heroku/main/ecommerce_example.csv)
 """)
 
 
